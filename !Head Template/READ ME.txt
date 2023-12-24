@@ -1,0 +1,12 @@
+Make sure you keep your folder structure looking like this, but I will make a note whenever the structure can be changed.
+
+GO INTO EACH FOLDER AND READ THE INSTRUCTIONS, MAKE SURE YOU EDIT EVERY FILE ACCORDING TO THE INSTRUCTIONS.
+
+In each folder structure I'll include instructions on what to do with the files. You will need:
+
+- An advanced text document editor, such as notepad++ or vscode (https://notepad-plus-plus.org) (https://code.visualstudio.com)
+- LSLIB and Modders Multitool (https://github.com/Norbyte/lslib) (https://github.com/ShinyHobo/BG3-Modders-Multitool)
+- Blender, and the GR2 plugin for it, for editing your head mesh (https://www.blender.org) (https://github.com/Norbyte/dos2de_collada_exporter)
+- GIMP or Photoshop + DDS plugin (https://www.gimp.org) (https://www.adobe.com/ca/products/photoshop.html) (https://code.google.com/archive/p/gimp-dds/downloads) (https://developer.nvidia.com/nvidia-texture-tools-exporter)
+
+- Weeviljester @ Nexusmods

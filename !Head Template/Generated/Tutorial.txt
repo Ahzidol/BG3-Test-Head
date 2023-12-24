@@ -1,0 +1,15 @@
+You can have as many folders in this one as you'd like for organization of assets. You can name them whatever you'd like, but try to keep special characters out of the file names. In these folders, you'll keep your:
+
+-Meshes (.GR2)
+-Skeletons (.GR2)
+-Textures (.DDS)
+
+But keep any other file types out of these folders.
+
+Make sure your file extensions (GR2 and DDS) are in all capitals, and that your files are the correct format.
+
+One common issue with heads is them ending up on the floor of the character creator. Make sure that you apply all transforms in blender before export.
+
+I've documented a lot of information here at my modding library, including what the textures do and how they should look.
+
+(https://bg3ccmoddinglibrary.carrd.co)

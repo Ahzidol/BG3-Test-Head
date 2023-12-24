@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h000000000000000000000000000000000000" version="1">Head Name 1</content>
+	<content contentuid="h000000000000000000000000000000000000" version="1">Head Name 2</content>
+	<content contentuid="h000000000000000000000000000000000000" version="1">Head Name 3</content>
+	<content contentuid="h000000000000000000000000000000000000" version="1">Head Name 4</content>
+	<!-- replace h000000000000000000000000000000000000 with a handle, generated in multitool by clicking the 'handle' box and then generating an ID. -->
+	<!-- the name you choose will be the name that shows up when hovering over the head in the character creator. -->
+	<!-- you will be using this handle in CharacterCreationVisuals so make sure you keep this file open for later, or keep track of this file in general. -->
+</contentList>

@@ -1,0 +1,1 @@
+You can name your file whatever you'd like, but ensure that the .loca remains at the end of the name. This will ensure that on packing your mod, it will auto convert the .XML to the correct format (.loca).

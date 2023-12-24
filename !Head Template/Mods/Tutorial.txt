@@ -1,0 +1,3 @@
+Choose a name for your mod folders, it doesn't need to be anything specific, but any spaces should be replaced with underscores. (_).
+
+Make sure to change the name of this folder, as well as the one in /Public to the same thing.

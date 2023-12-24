@@ -1,0 +1,14 @@
+In this folder, there can be as many mergeds as you'd like. I like to have a folder for one head, and multiple mergeds for each race and body variant, so for instance:
+
+ELF_merged
+HUM_merged
+TIF_merged
+ELF_Strong_merged
+HUM_Strong_merged
+TIF_Strong_merged
+
+If the head has a different mesh, or a different texture to the original merged, you should make a separate one to keep things simple.
+
+They don't need to be separate, but multitool will combine them automatically if you have them all in one folder. Make sure they have the extension .lsf.lsx or they won't convert correctly.
+
+I've included a base for human and elf models, and one for tieflings; tieflings have some extra textures that elves and humans don't have that need to be accounted for.

@@ -1,0 +1,5 @@
+Why is it named .loca.xml?
+
+This is because if you package the Main folder with multitool it will auto convert the .loca.xml
+
+This way you don't have to manually do the conversions

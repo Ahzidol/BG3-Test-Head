@@ -1,0 +1,1 @@
+This is named .lsf.lsx so when packed with multitool it will auto convert this file to .lsf
